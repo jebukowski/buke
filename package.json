@@ -1,0 +1,14 @@
+{
+  "name": "buke",
+  "version": "0.0.1",
+  "description": "Bukowsite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "J. Eric Bukowski (john.eric.bukowski@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

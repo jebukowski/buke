@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  background-color: #2b2c2d;
+  font-family: 'Fjord One', serif;
+}
+
+p {
+  color: #b860eb;
+  font-size: 26px;
+  text-align: left;
+}
+
+a {
+  color: #f5e2ff;
+}
+
+a:hover {
+  color: #f5f9a4;
+  text-decoration: none;
+}
+
+.center-vertically {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
